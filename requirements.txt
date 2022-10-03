@@ -1,0 +1,4 @@
+bot.py
+aiohttp
+websockets
+chardet
